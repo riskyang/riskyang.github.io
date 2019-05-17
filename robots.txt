@@ -1,5 +1,6 @@
 User-agent: * Allow: /
 Allow: /archives/
+Allow: /post/
 Disallow: /vendors/
 Disallow: /categories/
 
